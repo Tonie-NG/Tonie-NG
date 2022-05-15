@@ -9,7 +9,7 @@ I am a Software Engineer leveraging programming tools to create cool projects
 - Node.js
 
 ### Social
-- [Hashnode Blog](tonie.hashnode.dev)
+- [Hashnode Blog](https://tonie.hashnode.dev/)
 - [Twitter](https://twitter.com/Tonie_NG)
 - [LinkedIn](https://www.linkedin.com/in/tonie-8589b1209/)
 
