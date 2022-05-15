@@ -11,7 +11,7 @@ I am a Software Engineer leveraging programming tools to create cool projects
 ### Social
 - [Hashnode Blog](https://tonie.hashnode.dev/)
 - [Twitter](https://twitter.com/Tonie_NG)
-- [LinkedIn](https://www.linkedin.com/in/tonie-8589b1209/)
+- [LinkedIn](https://www.linkedin.com/in/tonie-NG/)
 
 ### Contact
 - [Email](victornwanochi@gmail.com)
