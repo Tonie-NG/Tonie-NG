@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi! I'm Tonie
+I'm a Software Engineer leveraging programming tools to create cool projects
 
-<!--
-**Tonie-NG/Tonie-NG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- HTML
+- CSS
+- JavaScript
+- React 
+- Node.js
 
-Here are some ideas to get you started:
+### Social
+- [Hashnode Blog](tonie.hashnode.dev)
+- [Twitter](https://twitter.com/Tonie_NG)
+- [LinkedIn](https://www.linkedin.com/in/tonie-8589b1209/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- [Email](victornwanochi@gmail.com)
+
+
+
+
+
