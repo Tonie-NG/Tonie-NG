@@ -14,7 +14,7 @@ I am a Software Engineer leveraging programming tools to create cool projects
 - [LinkedIn](https://www.linkedin.com/in/tonie-NG/)
 
 ### Contact
-- [Email](victornwanochi@gmail.com)
+- [Email](https://victornwanochi@gmail.com)
 
 
 
