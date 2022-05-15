@@ -1,5 +1,5 @@
 ### Hi! I'm Tonie
-I'm a Software Engineer leveraging programming tools to create cool projects
+I am a Software Engineer leveraging programming tools to create cool projects
 
 ### Skills
 - HTML
